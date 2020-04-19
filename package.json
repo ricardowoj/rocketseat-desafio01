@@ -1,0 +1,14 @@
+{
+  "name": "rocketseat-desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ricardowoj <ricardowoj@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
